@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Telegramsticker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Telegramsticker" parent="Base.Theme.Telegramsticker" />
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Primary colors -->
+        <item name="colorPrimary">#2A2D32</item>
+        <item name="colorPrimaryVariant">#383D45</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">#FF9800</item>
+        <item name="colorSecondaryVariant">#F57C00</item>
+        <item name="colorOnSecondary">#121212</item>
+
+        <!-- Background and surface -->
+        <item name="android:colorBackground">#323639</item>
+        <item name="colorSurface">#3A3F44</item>
+        <item name="colorOnSurface">#E0E0E0</item>
+
+        <!-- Error color -->
+        <item name="colorError">#CF6679</item>
+        <item name="colorOnError">#000000</item>
+
+        <!-- Status bar and navigation bar -->
+        <item name="android:statusBarColor">#2A2D32</item>
+        <item name="android:navigationBarColor">#2A2D32</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">#E0E0E0</item>
+        <item name="android:textColorSecondary">#B0B0B0</item>
+    </style>
+</resources>

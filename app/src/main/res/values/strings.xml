@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Telegramsticker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="load_stickers">Load Stickers</string>
+    <string name="enter_sticker_pack_name">Enter Sticker Pack Name or link</string>
+    <string name="sticker_thumbnail">test</string>
+</resources>
